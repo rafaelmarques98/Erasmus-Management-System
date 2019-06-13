@@ -1,5 +1,5 @@
 #!/bin/bash
-#TR1.sh
+#Erasmus.sh
 
 universidades="Dados/universidades.txt"
 professores="Dados/professores.txt"
