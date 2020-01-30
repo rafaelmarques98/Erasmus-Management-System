@@ -1,5 +1,5 @@
 # Erasmus-Management-System
-A Basic Bash Shell Project 
+A Basic Bash Shell Project  
 
 A **bash script**ith the purpose to manage students that are from Erasmus. It will save all stored data in files, with the following organization:
 
